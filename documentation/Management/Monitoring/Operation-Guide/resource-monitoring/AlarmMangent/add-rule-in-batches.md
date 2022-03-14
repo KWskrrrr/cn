@@ -118,7 +118,7 @@
 - 云缓存Redis
 - 云搜索 ElasticSearch
 
-资源
+资源组相关操作参看：[资源组操作指南](https://docs.jdcloud.com/cn/resourcegroup/operationguide)
 
 #### 配置报警    
 
@@ -130,7 +130,7 @@
    ![报警规则列表](../../../../../../image/Cloud-Monitor/7-zybjgz-tj.png) 
 
 3. 基本信息：配置规则名称，资源类型选择“云主机”，报警资源选择“选择资源组”，在标签下拉框中选择需要配置报警的标签分组。  
-   ![添加报警规则](../../../../../../image/Cloud-Monitor/8-qbbj-tj.png)
+   ![添加报警规则](../../../../../../image/Cloud-Monitor/8-qbbj-tj-zyz.png)
 
 4. 触发条件、通知策略相关配置同“批量配置报警规则”。
 
